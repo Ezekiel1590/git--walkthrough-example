@@ -1,0 +1,1 @@
+This is my walk through example for git
